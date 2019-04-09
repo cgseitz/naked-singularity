@@ -22,7 +22,7 @@ From: ubuntu:16.04
 %labels
 
     APPLICATION_NAME apbs-pdb2pqr-browndye
-    APPLICATION_VERSION 1.5 + 2.1.0 + 2.0
+    APPLICATION_VERSION 1.5 + 2.1.0 + 1.0
     APPLICATION_URL http://www.poissonboltzmann.org + https://browndye.ucsd.edu
 
     SYSTEM_NAME comet
