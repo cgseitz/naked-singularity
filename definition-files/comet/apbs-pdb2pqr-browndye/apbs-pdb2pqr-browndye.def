@@ -37,8 +37,11 @@ From: ubuntu:16.04
 
     MODIFYING_AUTHOR_NAME Marty Kandes
     MODIFYING_AUTHOR_EMAIL mkandes@sdsc.edu
+    
+    MODIFYING_AUTHOR_NAME Christian Seitz
+    MODIFYING_AUTHOR_EMAIL cseitz@ucsd.edu
 
-    LAST_UPDATED 20190402
+    LAST_UPDATED 20190409
 
 %help
    
@@ -54,7 +57,7 @@ From: ubuntu:16.04
 
         APBS v1.5 - http://www.poissonboltzmann.org/
         PDB2PQR v2.1.0 - http://www.poissonboltzmann.org/
-        BrownDye v2.0 (26 Feb 2019) - https://browndye.ucsd.edu/
+        BrownDye v1.0 (13 Feb 2019) - https://browndye.ucsd.edu/
 
     Please register your use of APBS and PDB2PQR at http://eepurl.com/by4eQr
 
@@ -183,7 +186,7 @@ From: ubuntu:16.04
 
 %apphelp nam_simulation
 
-    BrownDye version 2.0 (26 Feb 2019)
+    BrownDye version 1.0 (13 Feb 2019)
     For instructions on use see https://browndye.ucsd.edu
     All BrowDye programs are installed in /opt/browndye/bin
 
@@ -193,7 +196,7 @@ From: ubuntu:16.04
 
 %apphelp pqr2xml
 
-    BrownDye version 2.0 (26 Feb 2019)
+    BrownDye version 1.0 (13 Feb 2019)
     For instructions on use see https://browndye.ucsd.edu
 
 %apprun pqr2xml
@@ -202,7 +205,7 @@ From: ubuntu:16.04
 
 %apphelp make_rxn_pairs
 
-   BrownDye version 2.0 (26 Feb 2019)
+   BrownDye version 1.0 (13 Feb 2019)
    For instructions on use see https://browndye.ucsd.edu
 
 %apprun make_rxn_pairs
@@ -211,7 +214,7 @@ From: ubuntu:16.04
 
 %apphelp we_simulation
 
-   BrownDye version 2.0 (26 Feb 2019)
+   BrownDye version 1.0 (13 Feb 2019)
    For instructions on use see https://browndye.ucsd.edu
 
 %apprun we_simulation
@@ -220,7 +223,7 @@ From: ubuntu:16.04
 
 %apphelp xyz_trajectory
 
-   BrownDye version 2.0 (26 Feb 2019)
+   BrownDye version 1.0 (13 Feb 2019)
    For instructions on use see https://browndye.ucsd.edu
 
 %apprun xyz_trajectory
